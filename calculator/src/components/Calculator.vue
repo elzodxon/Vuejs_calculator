@@ -30,7 +30,7 @@ export default {
   name: 'Calculator',
   data(){
     return {
-      current: '12',
+      current: '',
       previous: null,
       operator: null,
       operatorClicked: false,
